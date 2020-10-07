@@ -1,0 +1,56 @@
+body {
+    background: #0f3057;
+}
+p{
+    background: cornflowerblue;
+    width: auto;
+    color: cornsilk;
+}
+.nav-principal{
+    width: auto;
+    background: #0f3057;
+    padding: 10px 30px;
+    display: flex;
+    justify-content:flex-end;
+    
+    
+   
+    
+}
+
+.navegador{
+    
+    background: #00587a;
+    margin: 2px;
+    padding: 10px 30px;
+    color: #e7e7de;
+    text-decoration: none;
+
+}
+.navegador:hover{
+    background: black ;
+}
+.bienvenida{
+    color: #e7e7de;
+    background: #00587a;
+    padding: 10px;
+    text-align: center;
+
+}
+.servicios{
+    background: cornsilk;
+    color: black;
+    display: flex;
+    padding: 10px 30px;
+    
+}
+.columna{
+    width: 30%;
+    background: cadetblue;
+    color: cornsilk;
+    margin: 10px 30px;
+    padding: 10px 30px;
+    border-color: black;
+    border: 1px solid;
+    text-align: center;
+}
